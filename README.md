@@ -61,7 +61,7 @@ Il suffit de faire un pull sur la branche master de notre github ci-dessus et ap
 * Après avoir cliqué sur Register now affiche deux champs un email et mot de passe et permet de créer un nouvel utilisateur si tous les champs ne sont pas remplis erreur sinon l'utilisateur est créé
 
 <p align="start">
-   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins.png" width="250" height="500" title="ins">
+   <img src="https://github.com/PDybala10/JobIg2/tree/master/images/to/ins.png" width="250" height="500" title="ins">
    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins1.png" width="250" height="500" title="ins1">
    <img src="https://github.com/PDybala10/JobIg2/tree/master/images/ins2.png" width="250" height="500" title="ins2">
 </p>
